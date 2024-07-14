@@ -1,0 +1,11 @@
+def digits(x):
+    sumi=0
+    while(x):
+        sumi+=x%10
+        x//=10
+    return sumi
+li=list(map(int,input().split()))
+sumof=0
+for i in range(len(li)):
+    sumof+=digits(li[i])
+print(sumof)   
