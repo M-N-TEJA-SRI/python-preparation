@@ -1,0 +1,5 @@
+l,b=map(int,input().split())
+print(l*b)
+output
+9 8
+72
