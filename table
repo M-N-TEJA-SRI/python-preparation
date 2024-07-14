@@ -1,0 +1,10 @@
+a=int(input())
+for i in range(1,6):
+    print(str(a)+'x'+str(i)+'='+str(a*i))
+output
+2
+2x1=2
+2x2=4
+2x3=6
+2x4=8
+2x5=10
