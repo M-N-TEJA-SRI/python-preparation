@@ -1,0 +1,11 @@
+def canvote(age):
+    if(age>=18):
+        return "vote"
+    else:
+        return "no vote"
+age=int(input())
+a=canvote(age)
+print(a)
+output
+9
+no vote
