@@ -1,0 +1,8 @@
+cp,sp=map(int,input().split())
+if(cp>sp):
+    print("loss "+str(cp-sp))
+elif(cp<sp):
+    print("gain "+str(sp-cp))
+    output
+    100 90
+loss 10
