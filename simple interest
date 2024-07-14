@@ -1,0 +1,5 @@
+p,t,r=map(int,input().split())
+print((p*t*r)/100)
+output
+1000 1 10
+100.0
