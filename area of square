@@ -1,0 +1,7 @@
+s=int(input())
+print(s*s)
+print(4*s)
+output
+4
+16
+16
