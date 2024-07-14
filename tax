@@ -1,0 +1,6 @@
+p,tax=map(int,input().split())
+ans=p+((tax/100)*p)
+print(ans)
+output
+100 10
+110.0
