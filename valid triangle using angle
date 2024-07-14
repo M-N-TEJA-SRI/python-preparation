@@ -1,0 +1,11 @@
+# Online Python compiler (interpreter) to run Python online.
+def validtriangle(a,b,c):
+    if(a+b+c==180):
+        return "valid"
+    else:
+        return "invalid"
+a,b,c=map(int,input().split())        
+print(validtriangle(a,b,c))
+output
+90 89 78
+invalid
