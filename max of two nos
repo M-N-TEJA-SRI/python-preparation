@@ -1,0 +1,6 @@
+a,b=map(int,input().split())
+print(max(a,b))
+output
+78 76
+output
+78
