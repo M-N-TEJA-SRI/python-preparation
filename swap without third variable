@@ -1,0 +1,6 @@
+a,b=map(int,input().split())
+a,b=b,a
+print(a,b)
+output
+3 5
+5 3
